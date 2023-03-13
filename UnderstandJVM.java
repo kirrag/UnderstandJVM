@@ -1,4 +1,4 @@
-public class JvmComprehension { // Загрузка класса в Metaspace
+public class JvmComprehension { // Загрузка (ClassLoader) класса JvmComprehension в Metaspace
 
     public static void main(String[] args) { // Создание фрейма main() в стеке
         int i = 1;                      // 1 Создание переменной типа int во фрейме main() стека
